@@ -10,6 +10,8 @@ namespace Day_IV
     {
         public int EmployeeID=0;
         public string EmployeeName = "";
+
+       
         
         public void Input()
         {
